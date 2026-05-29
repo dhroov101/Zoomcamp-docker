@@ -9,6 +9,7 @@ dependencies = [
     "pyarrow>=24.0.0",
     "sqlalchemy>=2.0.50",
     "tqdm>=4.67.3",
+    "psycopg[binary]>=3.3.4",
 ]
 
 [dependency-groups]
